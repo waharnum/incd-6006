@@ -1,3 +1,5 @@
+*The below are my outline notes to myself for the class. We'll see how much they are actually adhered to.*
+
 # Towards a Theory Approaching Towards a Theory of Inclusive Systems Design
 
 - About the title: https://scholar.google.ca/scholar?as_sdt=1,5&q=%22towards+a+theory%22&hl=en&as_vis=1 ("about 225,000 results")
